@@ -1,0 +1,16 @@
+name: MSC_DA_CA2
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+    - plotly
+    - seaborn
