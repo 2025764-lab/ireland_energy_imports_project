@@ -1,6 +1,18 @@
-.venv/
+# Ignore Python cache
 __pycache__/
-.DS_Store
+
+# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore Mac system file
+.DS_Store
+
+# Ignore virtual envs
+.venv/
+
+# Ignore processed data (auto-generated)
 data/processed/
-models/
+
+# Ignore generated figures
+figures/
+
