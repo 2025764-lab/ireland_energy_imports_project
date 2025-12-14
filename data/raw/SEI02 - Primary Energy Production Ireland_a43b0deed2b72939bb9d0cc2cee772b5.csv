@@ -1,0 +1,477 @@
+﻿STATISTIC,Statistic Label,C02404V02898,Fuel Type,TLIST(A1),Year,UNIT,VALUE
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1990,1990,ktoe,3471
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1991,1991,ktoe,3291
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1992,1992,ktoe,3086
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1993,1993,ktoe,3456
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1994,1994,ktoe,3565
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1995,1995,ktoe,4105
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1996,1996,ktoe,3544
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1997,1997,ktoe,2857
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1998,1998,ktoe,2463
+SEI02,Primary Energy Production,08,Sum of all indigenous production,1999,1999,ktoe,2462
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2000,2000,ktoe,2161
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2001,2001,ktoe,1776
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2002,2002,ktoe,1546
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2003,2003,ktoe,1837
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2004,2004,ktoe,1880
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2005,2005,ktoe,1702
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2006,2006,ktoe,1686
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2007,2007,ktoe,1435
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2008,2008,ktoe,1573
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2009,2009,ktoe,1464
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2010,2010,ktoe,1855
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2011,2011,ktoe,1723
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2012,2012,ktoe,1292
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2013,2013,ktoe,2327
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2014,2014,ktoe,2054
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2015,2015,ktoe,1963
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2016,2016,ktoe,4244
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2017,2017,ktoe,4888
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2018,2018,ktoe,5045
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2019,2019,ktoe,4155
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2020,2020,ktoe,3566
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2021,2021,ktoe,3029
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2022,2022,ktoe,3124
+SEI02,Primary Energy Production,08,Sum of all indigenous production,2023,2023,ktoe,2973
+SEI02,Primary Energy Production,01,Sum of all coal products,1990,1990,ktoe,16
+SEI02,Primary Energy Production,01,Sum of all coal products,1991,1991,ktoe,1
+SEI02,Primary Energy Production,01,Sum of all coal products,1992,1992,ktoe,1
+SEI02,Primary Energy Production,01,Sum of all coal products,1993,1993,ktoe,1
+SEI02,Primary Energy Production,01,Sum of all coal products,1994,1994,ktoe,1
+SEI02,Primary Energy Production,01,Sum of all coal products,1995,1995,ktoe,1
+SEI02,Primary Energy Production,01,Sum of all coal products,1996,1996,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,1997,1997,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,1998,1998,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,1999,1999,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2000,2000,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2001,2001,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2002,2002,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2003,2003,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2004,2004,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2005,2005,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2006,2006,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2007,2007,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2008,2008,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2009,2009,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2010,2010,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2011,2011,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2012,2012,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2013,2013,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2014,2014,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2015,2015,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2016,2016,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2017,2017,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2018,2018,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2019,2019,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2020,2020,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2021,2021,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2022,2022,ktoe,
+SEI02,Primary Energy Production,01,Sum of all coal products,2023,2023,ktoe,
+SEI02,Primary Energy Production,02,Sum of all peat products,1990,1990,ktoe,1411
+SEI02,Primary Energy Production,02,Sum of all peat products,1991,1991,ktoe,1200
+SEI02,Primary Energy Production,02,Sum of all peat products,1992,1992,ktoe,1021
+SEI02,Primary Energy Production,02,Sum of all peat products,1993,1993,ktoe,1134
+SEI02,Primary Energy Production,02,Sum of all peat products,1994,1994,ktoe,1192
+SEI02,Primary Energy Production,02,Sum of all peat products,1995,1995,ktoe,1697
+SEI02,Primary Energy Production,02,Sum of all peat products,1996,1996,ktoe,1203
+SEI02,Primary Energy Production,02,Sum of all peat products,1997,1997,ktoe,766
+SEI02,Primary Energy Production,02,Sum of all peat products,1998,1998,ktoe,822
+SEI02,Primary Energy Production,02,Sum of all peat products,1999,1999,ktoe,1135
+SEI02,Primary Energy Production,02,Sum of all peat products,2000,2000,ktoe,965
+SEI02,Primary Energy Production,02,Sum of all peat products,2001,2001,ktoe,883
+SEI02,Primary Energy Production,02,Sum of all peat products,2002,2002,ktoe,606
+SEI02,Primary Energy Production,02,Sum of all peat products,2003,2003,ktoe,1056
+SEI02,Primary Energy Production,02,Sum of all peat products,2004,2004,ktoe,906
+SEI02,Primary Energy Production,02,Sum of all peat products,2005,2005,ktoe,845
+SEI02,Primary Energy Production,02,Sum of all peat products,2006,2006,ktoe,826
+SEI02,Primary Energy Production,02,Sum of all peat products,2007,2007,ktoe,643
+SEI02,Primary Energy Production,02,Sum of all peat products,2008,2008,ktoe,660
+SEI02,Primary Energy Production,02,Sum of all peat products,2009,2009,ktoe,578
+SEI02,Primary Energy Production,02,Sum of all peat products,2010,2010,ktoe,1011
+SEI02,Primary Energy Production,02,Sum of all peat products,2011,2011,ktoe,774
+SEI02,Primary Energy Production,02,Sum of all peat products,2012,2012,ktoe,321
+SEI02,Primary Energy Production,02,Sum of all peat products,2013,2013,ktoe,1327
+SEI02,Primary Energy Production,02,Sum of all peat products,2014,2014,ktoe,982
+SEI02,Primary Energy Production,02,Sum of all peat products,2015,2015,ktoe,769
+SEI02,Primary Energy Production,02,Sum of all peat products,2016,2016,ktoe,679
+SEI02,Primary Energy Production,02,Sum of all peat products,2017,2017,ktoe,744
+SEI02,Primary Energy Production,02,Sum of all peat products,2018,2018,ktoe,816
+SEI02,Primary Energy Production,02,Sum of all peat products,2019,2019,ktoe,391
+SEI02,Primary Energy Production,02,Sum of all peat products,2020,2020,ktoe,128
+SEI02,Primary Energy Production,02,Sum of all peat products,2021,2021,ktoe,128
+SEI02,Primary Energy Production,02,Sum of all peat products,2022,2022,ktoe,128
+SEI02,Primary Energy Production,02,Sum of all peat products,2023,2023,ktoe,128
+SEI02,Primary Energy Production,04,Natural gas,1990,1990,ktoe,1877
+SEI02,Primary Energy Production,04,Natural gas,1991,1991,ktoe,1923
+SEI02,Primary Energy Production,04,Natural gas,1992,1992,ktoe,1902
+SEI02,Primary Energy Production,04,Natural gas,1993,1993,ktoe,2161
+SEI02,Primary Energy Production,04,Natural gas,1994,1994,ktoe,2198
+SEI02,Primary Energy Production,04,Natural gas,1995,1995,ktoe,2253
+SEI02,Primary Energy Production,04,Natural gas,1996,1996,ktoe,2172
+SEI02,Primary Energy Production,04,Natural gas,1997,1997,ktoe,1910
+SEI02,Primary Energy Production,04,Natural gas,1998,1998,ktoe,1410
+SEI02,Primary Energy Production,04,Natural gas,1999,1999,ktoe,1106
+SEI02,Primary Energy Production,04,Natural gas,2000,2000,ktoe,960
+SEI02,Primary Energy Production,04,Natural gas,2001,2001,ktoe,660
+SEI02,Primary Energy Production,04,Natural gas,2002,2002,ktoe,679
+SEI02,Primary Energy Production,04,Natural gas,2003,2003,ktoe,545
+SEI02,Primary Energy Production,04,Natural gas,2004,2004,ktoe,690
+SEI02,Primary Energy Production,04,Natural gas,2005,2005,ktoe,488
+SEI02,Primary Energy Production,04,Natural gas,2006,2006,ktoe,432
+SEI02,Primary Energy Production,04,Natural gas,2007,2007,ktoe,322
+SEI02,Primary Energy Production,04,Natural gas,2008,2008,ktoe,368
+SEI02,Primary Energy Production,04,Natural gas,2009,2009,ktoe,255
+SEI02,Primary Energy Production,04,Natural gas,2010,2010,ktoe,237
+SEI02,Primary Energy Production,04,Natural gas,2011,2011,ktoe,197
+SEI02,Primary Energy Production,04,Natural gas,2012,2012,ktoe,181
+SEI02,Primary Energy Production,04,Natural gas,2013,2013,ktoe,164
+SEI02,Primary Energy Production,04,Natural gas,2014,2014,ktoe,132
+SEI02,Primary Energy Production,04,Natural gas,2015,2015,ktoe,113
+SEI02,Primary Energy Production,04,Natural gas,2016,2016,ktoe,2493
+SEI02,Primary Energy Production,04,Natural gas,2017,2017,ktoe,2854
+SEI02,Primary Energy Production,04,Natural gas,2018,2018,ktoe,2752
+SEI02,Primary Energy Production,04,Natural gas,2019,2019,ktoe,2147
+SEI02,Primary Energy Production,04,Natural gas,2020,2020,ktoe,1666
+SEI02,Primary Energy Production,04,Natural gas,2021,2021,ktoe,1258
+SEI02,Primary Energy Production,04,Natural gas,2022,2022,ktoe,1165
+SEI02,Primary Energy Production,04,Natural gas,2023,2023,ktoe,935
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1990,1990,ktoe,168
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1991,1991,ktoe,168
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1992,1992,ktoe,162
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1993,1993,ktoe,161
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1994,1994,ktoe,174
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1995,1995,ktoe,155
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1996,1996,ktoe,169
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1997,1997,ktoe,181
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1998,1998,ktoe,231
+SEI02,Primary Energy Production,05,Sum of all renewable energies,1999,1999,ktoe,222
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2000,2000,ktoe,235
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2001,2001,ktoe,234
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2002,2002,ktoe,261
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2003,2003,ktoe,236
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2004,2004,ktoe,284
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2005,2005,ktoe,370
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2006,2006,ktoe,428
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2007,2007,ktoe,469
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2008,2008,ktoe,544
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2009,2009,ktoe,618
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2010,2010,ktoe,597
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2011,2011,ktoe,738
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2012,2012,ktoe,745
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2013,2013,ktoe,775
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2014,2014,ktoe,874
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2015,2015,ktoe,1013
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2016,2016,ktoe,1005
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2017,2017,ktoe,1176
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2018,2018,ktoe,1331
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2019,2019,ktoe,1472
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2020,2020,ktoe,1625
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2021,2021,ktoe,1500
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2022,2022,ktoe,1683
+SEI02,Primary Energy Production,05,Sum of all renewable energies,2023,2023,ktoe,1742
+SEI02,Primary Energy Production,0501,Hydro,1990,1990,ktoe,60
+SEI02,Primary Energy Production,0501,Hydro,1991,1991,ktoe,64
+SEI02,Primary Energy Production,0501,Hydro,1992,1992,ktoe,70
+SEI02,Primary Energy Production,0501,Hydro,1993,1993,ktoe,66
+SEI02,Primary Energy Production,0501,Hydro,1994,1994,ktoe,79
+SEI02,Primary Energy Production,0501,Hydro,1995,1995,ktoe,61
+SEI02,Primary Energy Production,0501,Hydro,1996,1996,ktoe,62
+SEI02,Primary Energy Production,0501,Hydro,1997,1997,ktoe,58
+SEI02,Primary Energy Production,0501,Hydro,1998,1998,ktoe,79
+SEI02,Primary Energy Production,0501,Hydro,1999,1999,ktoe,73
+SEI02,Primary Energy Production,0501,Hydro,2000,2000,ktoe,73
+SEI02,Primary Energy Production,0501,Hydro,2001,2001,ktoe,51
+SEI02,Primary Energy Production,0501,Hydro,2002,2002,ktoe,78
+SEI02,Primary Energy Production,0501,Hydro,2003,2003,ktoe,51
+SEI02,Primary Energy Production,0501,Hydro,2004,2004,ktoe,54
+SEI02,Primary Energy Production,0501,Hydro,2005,2005,ktoe,54
+SEI02,Primary Energy Production,0501,Hydro,2006,2006,ktoe,62
+SEI02,Primary Energy Production,0501,Hydro,2007,2007,ktoe,57
+SEI02,Primary Energy Production,0501,Hydro,2008,2008,ktoe,83
+SEI02,Primary Energy Production,0501,Hydro,2009,2009,ktoe,78
+SEI02,Primary Energy Production,0501,Hydro,2010,2010,ktoe,52
+SEI02,Primary Energy Production,0501,Hydro,2011,2011,ktoe,61
+SEI02,Primary Energy Production,0501,Hydro,2012,2012,ktoe,69
+SEI02,Primary Energy Production,0501,Hydro,2013,2013,ktoe,52
+SEI02,Primary Energy Production,0501,Hydro,2014,2014,ktoe,61
+SEI02,Primary Energy Production,0501,Hydro,2015,2015,ktoe,69
+SEI02,Primary Energy Production,0501,Hydro,2016,2016,ktoe,59
+SEI02,Primary Energy Production,0501,Hydro,2017,2017,ktoe,59
+SEI02,Primary Energy Production,0501,Hydro,2018,2018,ktoe,60
+SEI02,Primary Energy Production,0501,Hydro,2019,2019,ktoe,76
+SEI02,Primary Energy Production,0501,Hydro,2020,2020,ktoe,80
+SEI02,Primary Energy Production,0501,Hydro,2021,2021,ktoe,64
+SEI02,Primary Energy Production,0501,Hydro,2022,2022,ktoe,60
+SEI02,Primary Energy Production,0501,Hydro,2023,2023,ktoe,81
+SEI02,Primary Energy Production,0502,Wind,1990,1990,ktoe,
+SEI02,Primary Energy Production,0502,Wind,1991,1991,ktoe,
+SEI02,Primary Energy Production,0502,Wind,1992,1992,ktoe,0
+SEI02,Primary Energy Production,0502,Wind,1993,1993,ktoe,1
+SEI02,Primary Energy Production,0502,Wind,1994,1994,ktoe,2
+SEI02,Primary Energy Production,0502,Wind,1995,1995,ktoe,1
+SEI02,Primary Energy Production,0502,Wind,1996,1996,ktoe,1
+SEI02,Primary Energy Production,0502,Wind,1997,1997,ktoe,4
+SEI02,Primary Energy Production,0502,Wind,1998,1998,ktoe,15
+SEI02,Primary Energy Production,0502,Wind,1999,1999,ktoe,16
+SEI02,Primary Energy Production,0502,Wind,2000,2000,ktoe,21
+SEI02,Primary Energy Production,0502,Wind,2001,2001,ktoe,29
+SEI02,Primary Energy Production,0502,Wind,2002,2002,ktoe,33
+SEI02,Primary Energy Production,0502,Wind,2003,2003,ktoe,39
+SEI02,Primary Energy Production,0502,Wind,2004,2004,ktoe,56
+SEI02,Primary Energy Production,0502,Wind,2005,2005,ktoe,96
+SEI02,Primary Energy Production,0502,Wind,2006,2006,ktoe,139
+SEI02,Primary Energy Production,0502,Wind,2007,2007,ktoe,168
+SEI02,Primary Energy Production,0502,Wind,2008,2008,ktoe,207
+SEI02,Primary Energy Production,0502,Wind,2009,2009,ktoe,254
+SEI02,Primary Energy Production,0502,Wind,2010,2010,ktoe,242
+SEI02,Primary Energy Production,0502,Wind,2011,2011,ktoe,377
+SEI02,Primary Energy Production,0502,Wind,2012,2012,ktoe,345
+SEI02,Primary Energy Production,0502,Wind,2013,2013,ktoe,391
+SEI02,Primary Energy Production,0502,Wind,2014,2014,ktoe,442
+SEI02,Primary Energy Production,0502,Wind,2015,2015,ktoe,565
+SEI02,Primary Energy Production,0502,Wind,2016,2016,ktoe,529
+SEI02,Primary Energy Production,0502,Wind,2017,2017,ktoe,640
+SEI02,Primary Energy Production,0502,Wind,2018,2018,ktoe,743
+SEI02,Primary Energy Production,0502,Wind,2019,2019,ktoe,862
+SEI02,Primary Energy Production,0502,Wind,2020,2020,ktoe,993
+SEI02,Primary Energy Production,0502,Wind,2021,2021,ktoe,841
+SEI02,Primary Energy Production,0502,Wind,2022,2022,ktoe,964
+SEI02,Primary Energy Production,0502,Wind,2023,2023,ktoe,1004
+SEI02,Primary Energy Production,0503,Biomass,1990,1990,ktoe,105
+SEI02,Primary Energy Production,0503,Biomass,1991,1991,ktoe,101
+SEI02,Primary Energy Production,0503,Biomass,1992,1992,ktoe,89
+SEI02,Primary Energy Production,0503,Biomass,1993,1993,ktoe,90
+SEI02,Primary Energy Production,0503,Biomass,1994,1994,ktoe,91
+SEI02,Primary Energy Production,0503,Biomass,1995,1995,ktoe,89
+SEI02,Primary Energy Production,0503,Biomass,1996,1996,ktoe,95
+SEI02,Primary Energy Production,0503,Biomass,1997,1997,ktoe,92
+SEI02,Primary Energy Production,0503,Biomass,1998,1998,ktoe,112
+SEI02,Primary Energy Production,0503,Biomass,1999,1999,ktoe,105
+SEI02,Primary Energy Production,0503,Biomass,2000,2000,ktoe,113
+SEI02,Primary Energy Production,0503,Biomass,2001,2001,ktoe,125
+SEI02,Primary Energy Production,0503,Biomass,2002,2002,ktoe,125
+SEI02,Primary Energy Production,0503,Biomass,2003,2003,ktoe,119
+SEI02,Primary Energy Production,0503,Biomass,2004,2004,ktoe,141
+SEI02,Primary Energy Production,0503,Biomass,2005,2005,ktoe,180
+SEI02,Primary Energy Production,0503,Biomass,2006,2006,ktoe,181
+SEI02,Primary Energy Production,0503,Biomass,2007,2007,ktoe,170
+SEI02,Primary Energy Production,0503,Biomass,2008,2008,ktoe,163
+SEI02,Primary Energy Production,0503,Biomass,2009,2009,ktoe,182
+SEI02,Primary Energy Production,0503,Biomass,2010,2010,ktoe,197
+SEI02,Primary Energy Production,0503,Biomass,2011,2011,ktoe,193
+SEI02,Primary Energy Production,0503,Biomass,2012,2012,ktoe,222
+SEI02,Primary Energy Production,0503,Biomass,2013,2013,ktoe,232
+SEI02,Primary Energy Production,0503,Biomass,2014,2014,ktoe,262
+SEI02,Primary Energy Production,0503,Biomass,2015,2015,ktoe,260
+SEI02,Primary Energy Production,0503,Biomass,2016,2016,ktoe,293
+SEI02,Primary Energy Production,0503,Biomass,2017,2017,ktoe,341
+SEI02,Primary Energy Production,0503,Biomass,2018,2018,ktoe,389
+SEI02,Primary Energy Production,0503,Biomass,2019,2019,ktoe,374
+SEI02,Primary Energy Production,0503,Biomass,2020,2020,ktoe,369
+SEI02,Primary Energy Production,0503,Biomass,2021,2021,ktoe,376
+SEI02,Primary Energy Production,0503,Biomass,2022,2022,ktoe,394
+SEI02,Primary Energy Production,0503,Biomass,2023,2023,ktoe,342
+SEI02,Primary Energy Production,0504,Landfill gas,1990,1990,ktoe,
+SEI02,Primary Energy Production,0504,Landfill gas,1991,1991,ktoe,
+SEI02,Primary Energy Production,0504,Landfill gas,1992,1992,ktoe,
+SEI02,Primary Energy Production,0504,Landfill gas,1993,1993,ktoe,
+SEI02,Primary Energy Production,0504,Landfill gas,1994,1994,ktoe,
+SEI02,Primary Energy Production,0504,Landfill gas,1995,1995,ktoe,
+SEI02,Primary Energy Production,0504,Landfill gas,1996,1996,ktoe,7
+SEI02,Primary Energy Production,0504,Landfill gas,1997,1997,ktoe,22
+SEI02,Primary Energy Production,0504,Landfill gas,1998,1998,ktoe,21
+SEI02,Primary Energy Production,0504,Landfill gas,1999,1999,ktoe,23
+SEI02,Primary Energy Production,0504,Landfill gas,2000,2000,ktoe,24
+SEI02,Primary Energy Production,0504,Landfill gas,2001,2001,ktoe,24
+SEI02,Primary Energy Production,0504,Landfill gas,2002,2002,ktoe,19
+SEI02,Primary Energy Production,0504,Landfill gas,2003,2003,ktoe,16
+SEI02,Primary Energy Production,0504,Landfill gas,2004,2004,ktoe,20
+SEI02,Primary Energy Production,0504,Landfill gas,2005,2005,ktoe,25
+SEI02,Primary Energy Production,0504,Landfill gas,2006,2006,ktoe,25
+SEI02,Primary Energy Production,0504,Landfill gas,2007,2007,ktoe,36
+SEI02,Primary Energy Production,0504,Landfill gas,2008,2008,ktoe,39
+SEI02,Primary Energy Production,0504,Landfill gas,2009,2009,ktoe,42
+SEI02,Primary Energy Production,0504,Landfill gas,2010,2010,ktoe,44
+SEI02,Primary Energy Production,0504,Landfill gas,2011,2011,ktoe,44
+SEI02,Primary Energy Production,0504,Landfill gas,2012,2012,ktoe,43
+SEI02,Primary Energy Production,0504,Landfill gas,2013,2013,ktoe,38
+SEI02,Primary Energy Production,0504,Landfill gas,2014,2014,ktoe,39
+SEI02,Primary Energy Production,0504,Landfill gas,2015,2015,ktoe,42
+SEI02,Primary Energy Production,0504,Landfill gas,2016,2016,ktoe,40
+SEI02,Primary Energy Production,0504,Landfill gas,2017,2017,ktoe,39
+SEI02,Primary Energy Production,0504,Landfill gas,2018,2018,ktoe,34
+SEI02,Primary Energy Production,0504,Landfill gas,2019,2019,ktoe,32
+SEI02,Primary Energy Production,0504,Landfill gas,2020,2020,ktoe,29
+SEI02,Primary Energy Production,0504,Landfill gas,2021,2021,ktoe,29
+SEI02,Primary Energy Production,0504,Landfill gas,2022,2022,ktoe,26
+SEI02,Primary Energy Production,0504,Landfill gas,2023,2023,ktoe,24
+SEI02,Primary Energy Production,0505,Biogas,1990,1990,ktoe,2
+SEI02,Primary Energy Production,0505,Biogas,1991,1991,ktoe,3
+SEI02,Primary Energy Production,0505,Biogas,1992,1992,ktoe,3
+SEI02,Primary Energy Production,0505,Biogas,1993,1993,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,1994,1994,ktoe,2
+SEI02,Primary Energy Production,0505,Biogas,1995,1995,ktoe,3
+SEI02,Primary Energy Production,0505,Biogas,1996,1996,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,1997,1997,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,1998,1998,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,1999,1999,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,2000,2000,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,2001,2001,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,2002,2002,ktoe,4
+SEI02,Primary Energy Production,0505,Biogas,2003,2003,ktoe,9
+SEI02,Primary Energy Production,0505,Biogas,2004,2004,ktoe,10
+SEI02,Primary Energy Production,0505,Biogas,2005,2005,ktoe,9
+SEI02,Primary Energy Production,0505,Biogas,2006,2006,ktoe,10
+SEI02,Primary Energy Production,0505,Biogas,2007,2007,ktoe,10
+SEI02,Primary Energy Production,0505,Biogas,2008,2008,ktoe,10
+SEI02,Primary Energy Production,0505,Biogas,2009,2009,ktoe,13
+SEI02,Primary Energy Production,0505,Biogas,2010,2010,ktoe,14
+SEI02,Primary Energy Production,0505,Biogas,2011,2011,ktoe,14
+SEI02,Primary Energy Production,0505,Biogas,2012,2012,ktoe,13
+SEI02,Primary Energy Production,0505,Biogas,2013,2013,ktoe,11
+SEI02,Primary Energy Production,0505,Biogas,2014,2014,ktoe,13
+SEI02,Primary Energy Production,0505,Biogas,2015,2015,ktoe,14
+SEI02,Primary Energy Production,0505,Biogas,2016,2016,ktoe,16
+SEI02,Primary Energy Production,0505,Biogas,2017,2017,ktoe,16
+SEI02,Primary Energy Production,0505,Biogas,2018,2018,ktoe,17
+SEI02,Primary Energy Production,0505,Biogas,2019,2019,ktoe,19
+SEI02,Primary Energy Production,0505,Biogas,2020,2020,ktoe,21
+SEI02,Primary Energy Production,0505,Biogas,2021,2021,ktoe,23
+SEI02,Primary Energy Production,0505,Biogas,2022,2022,ktoe,28
+SEI02,Primary Energy Production,0505,Biogas,2023,2023,ktoe,28
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1990,1990,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1991,1991,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1992,1992,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1993,1993,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1994,1994,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1995,1995,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1996,1996,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1997,1997,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1998,1998,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,1999,1999,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2000,2000,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2001,2001,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2002,2002,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2003,2003,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2004,2004,ktoe,
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2005,2005,ktoe,1
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2006,2006,ktoe,3
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2007,2007,ktoe,15
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2008,2008,ktoe,24
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2009,2009,ktoe,29
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2010,2010,ktoe,26
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2011,2011,ktoe,24
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2012,2012,ktoe,24
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2013,2013,ktoe,22
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2014,2014,ktoe,23
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2015,2015,ktoe,24
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2016,2016,ktoe,24
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2017,2017,ktoe,28
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2018,2018,ktoe,34
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2019,2019,ktoe,46
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2020,2020,ktoe,57
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2021,2021,ktoe,81
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2022,2022,ktoe,104
+SEI02,Primary Energy Production,0506,Liquid Biofuel,2023,2023,ktoe,98
+SEI02,Primary Energy Production,0508,Solar,1990,1990,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1991,1991,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1992,1992,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1993,1993,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1994,1994,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1995,1995,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1996,1996,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1997,1997,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1998,1998,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,1999,1999,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2000,2000,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2001,2001,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2002,2002,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2003,2003,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2004,2004,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2005,2005,ktoe,0
+SEI02,Primary Energy Production,0508,Solar,2006,2006,ktoe,1
+SEI02,Primary Energy Production,0508,Solar,2007,2007,ktoe,1
+SEI02,Primary Energy Production,0508,Solar,2008,2008,ktoe,3
+SEI02,Primary Energy Production,0508,Solar,2009,2009,ktoe,5
+SEI02,Primary Energy Production,0508,Solar,2010,2010,ktoe,8
+SEI02,Primary Energy Production,0508,Solar,2011,2011,ktoe,9
+SEI02,Primary Energy Production,0508,Solar,2012,2012,ktoe,9
+SEI02,Primary Energy Production,0508,Solar,2013,2013,ktoe,10
+SEI02,Primary Energy Production,0508,Solar,2014,2014,ktoe,11
+SEI02,Primary Energy Production,0508,Solar,2015,2015,ktoe,12
+SEI02,Primary Energy Production,0508,Solar,2016,2016,ktoe,13
+SEI02,Primary Energy Production,0508,Solar,2017,2017,ktoe,13
+SEI02,Primary Energy Production,0508,Solar,2018,2018,ktoe,15
+SEI02,Primary Energy Production,0508,Solar,2019,2019,ktoe,17
+SEI02,Primary Energy Production,0508,Solar,2020,2020,ktoe,19
+SEI02,Primary Energy Production,0508,Solar,2021,2021,ktoe,21
+SEI02,Primary Energy Production,0508,Solar,2022,2022,ktoe,27
+SEI02,Primary Energy Production,0508,Solar,2023,2023,ktoe,70
+SEI02,Primary Energy Production,0509,Geothermal,1990,1990,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1991,1991,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1992,1992,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1993,1993,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1994,1994,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1995,1995,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1996,1996,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1997,1997,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1998,1998,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,1999,1999,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,2000,2000,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,2001,2001,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,2002,2002,ktoe,0
+SEI02,Primary Energy Production,0509,Geothermal,2003,2003,ktoe,1
+SEI02,Primary Energy Production,0509,Geothermal,2004,2004,ktoe,2
+SEI02,Primary Energy Production,0509,Geothermal,2005,2005,ktoe,4
+SEI02,Primary Energy Production,0509,Geothermal,2006,2006,ktoe,7
+SEI02,Primary Energy Production,0509,Geothermal,2007,2007,ktoe,10
+SEI02,Primary Energy Production,0509,Geothermal,2008,2008,ktoe,13
+SEI02,Primary Energy Production,0509,Geothermal,2009,2009,ktoe,14
+SEI02,Primary Energy Production,0509,Geothermal,2010,2010,ktoe,16
+SEI02,Primary Energy Production,0509,Geothermal,2011,2011,ktoe,17
+SEI02,Primary Energy Production,0509,Geothermal,2012,2012,ktoe,19
+SEI02,Primary Energy Production,0509,Geothermal,2013,2013,ktoe,20
+SEI02,Primary Energy Production,0509,Geothermal,2014,2014,ktoe,23
+SEI02,Primary Energy Production,0509,Geothermal,2015,2015,ktoe,27
+SEI02,Primary Energy Production,0509,Geothermal,2016,2016,ktoe,32
+SEI02,Primary Energy Production,0509,Geothermal,2017,2017,ktoe,38
+SEI02,Primary Energy Production,0509,Geothermal,2018,2018,ktoe,41
+SEI02,Primary Energy Production,0509,Geothermal,2019,2019,ktoe,47
+SEI02,Primary Energy Production,0509,Geothermal,2020,2020,ktoe,56
+SEI02,Primary Energy Production,0509,Geothermal,2021,2021,ktoe,65
+SEI02,Primary Energy Production,0509,Geothermal,2022,2022,ktoe,81
+SEI02,Primary Energy Production,0509,Geothermal,2023,2023,ktoe,96
+SEI02,Primary Energy Production,10,Non renewable waste,1990,1990,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1991,1991,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1992,1992,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1993,1993,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1994,1994,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1995,1995,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1996,1996,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1997,1997,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1998,1998,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,1999,1999,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2000,2000,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2001,2001,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2002,2002,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2003,2003,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2004,2004,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2005,2005,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2006,2006,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2007,2007,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2008,2008,ktoe,
+SEI02,Primary Energy Production,10,Non renewable waste,2009,2009,ktoe,13
+SEI02,Primary Energy Production,10,Non renewable waste,2010,2010,ktoe,9
+SEI02,Primary Energy Production,10,Non renewable waste,2011,2011,ktoe,14
+SEI02,Primary Energy Production,10,Non renewable waste,2012,2012,ktoe,46
+SEI02,Primary Energy Production,10,Non renewable waste,2013,2013,ktoe,61
+SEI02,Primary Energy Production,10,Non renewable waste,2014,2014,ktoe,66
+SEI02,Primary Energy Production,10,Non renewable waste,2015,2015,ktoe,69
+SEI02,Primary Energy Production,10,Non renewable waste,2016,2016,ktoe,67
+SEI02,Primary Energy Production,10,Non renewable waste,2017,2017,ktoe,113
+SEI02,Primary Energy Production,10,Non renewable waste,2018,2018,ktoe,145
+SEI02,Primary Energy Production,10,Non renewable waste,2019,2019,ktoe,145
+SEI02,Primary Energy Production,10,Non renewable waste,2020,2020,ktoe,147
+SEI02,Primary Energy Production,10,Non renewable waste,2021,2021,ktoe,143
+SEI02,Primary Energy Production,10,Non renewable waste,2022,2022,ktoe,148
+SEI02,Primary Energy Production,10,Non renewable waste,2023,2023,ktoe,168
