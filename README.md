@@ -21,7 +21,7 @@ The analysis follows:
 This repository is the submission for Continuous Assessment 2 (CA2) for MSc Data Analytics.
 
 
-# How to Run
+## How to Run
 
 Activate the Conda environment and run the notebooks in order:
 
@@ -29,7 +29,7 @@ Activate the Conda environment and run the notebooks in order:
 2. `notebooks/02_ml_forecasting_clustering.ipynb`
 3. `notebooks/03_dashboard.ipynb`
 
-# Dashboard Note
+## Dashboard Note
 
 The dashboard in Notebook 3 uses ipywidgets.
 Interactive widgets do not render in GitHub preview and must be run locally.
